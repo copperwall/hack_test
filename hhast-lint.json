@@ -1,0 +1,12 @@
+{
+  "roots": [
+    "src/",
+    "tests/",
+    "public/"
+  ],
+  "builtinLinters": "all",
+  "disabledLinters": [
+    "Facebook\\HHAST\\Linters\\StrictModeOnlyLinter",
+    "Facebook\\HHAST\\Linters\\LicenseHeaderLinter"
+  ]
+}

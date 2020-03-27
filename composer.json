@@ -1,0 +1,13 @@
+{
+  "require": {
+    "hhvm/hsl": "^4.25.2",
+    "hhvm/type-assert": "^3.6.3",
+    "facebook/xhp-lib": "^2.10.2",
+    "hhvm/hhvm-autoload": "^2.0.9"
+  },
+  "require-dev": {
+    "hhvm/hacktest": "^1.6.3|^2.0",
+    "hhvm/hhast": "^4.25.0",
+    "facebook/fbexpect": "^2.7.0"
+  }
+}
